@@ -26,3 +26,13 @@ SAUL : Como colaborador voy a hacer un segundo COMMIT
 git add README.md
 git commit -m "MEUDEUUUS"
 ```
+
+
+## Hacer el rebase
+para traer los cambios que he hecho en main a la feature se hace un rebase
+para ello
+```bash
+git checkout feature
+git rebase main
+```
+despues seria corregir los errores, hacer un commit y ya estaria
