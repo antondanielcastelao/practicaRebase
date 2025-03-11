@@ -18,3 +18,10 @@ Soy el Colaborador Saul y voy a hacer commits en el feature
 ```bash
 echo mi parte
 ```
+
+SAUL : Como colaborador voy a hacer un segundo COMMIT
+
+```bash
+git add README.md
+git commit -m "MEUDEUUUS"
+```
